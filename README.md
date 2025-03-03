@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huda Nadeem</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [recipe finder](https://github.com/hudanadeem/recipe-finder)
+- 🔭 I’m currently working on **portfolio project**.
 
 - 🌱 I’m currently learning **at BrainStation**
 
