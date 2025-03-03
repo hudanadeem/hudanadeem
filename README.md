@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [recipe finder](https://github.com/hudanadeem/recipe-finder)
 
-- 🌱 I’m currently learning **databases**
+- 🌱 I’m currently learning **at BrainStation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hudanadeem](https://github.com/hudanadeem)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/huda-nadeem-/](https://www.linkedin.com/in/huda-nadeem-/)
 
-- 💬 Ask me about **react, JavaScript, API's**
+- 💬 Ask me about **React, JavaScript, API's**
 
 - 📫 How to reach me **hudanadeem.02@gmail.com**
 
