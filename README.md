@@ -59,5 +59,5 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hudanadeem&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hudanadeem&theme=radical&no-bg=true&no-frame=true&column=4&rank=SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </p>
