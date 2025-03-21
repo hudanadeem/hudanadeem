@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  🔭 Currently working on <strong>my portfolio project</strong><br>
+  🔭 Currently working on <strong><a href="https://github.com/hudanadeem/skintuition" target="_blank"></strong><br>
   🌱 Learning at <strong>BrainStation</strong><br>
   👨‍💻 Check out my projects on <a href="https://github.com/hudanadeem" target="_blank"><strong>GitHub</strong></a><br>
   📝 I write articles on <a href="https://www.linkedin.com/in/huda-nadeem-/" target="_blank"><strong>LinkedIn</strong></a><br>
