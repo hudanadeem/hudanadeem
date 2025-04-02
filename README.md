@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Huda Nadeem</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  🔭 Currently working on <a href="https://github.com/hudanadeem/skintuition" target="_blank"><strong>Skintuition</strong></a><br>
-  👨‍💻 Check out my projects on <a href="https://github.com/hudanadeem" target="_blank"><strong>GitHub</strong></a><br>
-  📝 I write articles on <a href="https://www.linkedin.com/in/huda-nadeem-/" target="_blank"><strong>LinkedIn</strong></a><br>
-  📫 Reach me at <strong>hudanadeem.02@gmail.com</strong><br>
-  ⚡ Fun fact: <strong>I love to read!</strong>
-</p>
+# Hi 👋, I'm **Huda Nadeem**
+### Passionate Full Stack Developer 🌐
 
 ---
+
+🔭 **Currently working on:**  
+[**Skintuition 🚀**](https://github.com/hudanadeem/skintuition)
+
+👨‍💻 **Check out my projects on:**  
+[**GitHub 🧑‍💻**](https://github.com/hudanadeem)
+
+📝 **I write articles on:**  
+[**LinkedIn 💬**](https://www.linkedin.com/in/huda-nadeem-/)
+
+📫 **Reach me at:**  
+[**hudanadeem.02@gmail.com ✉️**](mailto:hudanadeem.02@gmail.com)
+
+⚡ **Fun fact:** I love to read 📚!
+
+---
+</div>
 
 ### 🌍 Connect with Me:
 <p align="left">
@@ -59,3 +70,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hudanadeem&theme=radical&no-bg=true&no-frame=true&column=4&rank=SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </p>
+
+---
