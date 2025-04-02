@@ -3,10 +3,8 @@
 
 <p align="center">
   🔭 Currently working on <a href="https://github.com/hudanadeem/skintuition" target="_blank"><strong>Skintuition</strong></a><br>
-  🌱 Learning at <strong>BrainStation</strong><br>
   👨‍💻 Check out my projects on <a href="https://github.com/hudanadeem" target="_blank"><strong>GitHub</strong></a><br>
   📝 I write articles on <a href="https://www.linkedin.com/in/huda-nadeem-/" target="_blank"><strong>LinkedIn</strong></a><br>
-  💬 Ask me about <strong>React, JavaScript, and APIs</strong><br>
   📫 Reach me at <strong>hudanadeem.02@gmail.com</strong><br>
   ⚡ Fun fact: <strong>I love to read!</strong>
 </p>
